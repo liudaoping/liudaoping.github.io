@@ -1,0 +1,40 @@
+<?xml-stylesheet type="text/xsl" href="https://liudaoping.github.io/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>https://liudaoping.github.io/post/</loc>
+    <lastmod>2019-06-01T14:03:45+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://liudaoping.github.io/post/first-post/</loc>
+    <lastmod>2019-06-01T14:03:45+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://liudaoping.github.io/</loc>
+    <lastmod>2019-06-01T14:03:45+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://liudaoping.github.io/about/</loc>
+    <lastmod>2019-06-01T13:59:45+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://liudaoping.github.io/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://liudaoping.github.io/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
